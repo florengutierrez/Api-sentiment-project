@@ -1,4 +1,4 @@
-![mongo](/mongo.png)
+![mongo](/images/mongo.png)
 
 
 ## Api-Sentiment-Project
