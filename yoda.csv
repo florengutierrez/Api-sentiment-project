@@ -1,0 +1,372 @@
+,movie,character,text
+0,1,narrator,"QUI-GON stands in a tall stately room. Twelve JEDI sit in a semi-circle. OBI-WAN stands behind QUI-GON in the center of the room. The Senior Jedi is MACE WINDU. To his left is an alien Jedi named KI-ADI-MUNDI, and to his right, the Jedi Master, YODA."
+1,1,QUI-GON,...my only conclusion can be that it was a Sith Lord.
+2,1,MACE WINDU,A Sith Lord?!?
+3,1,KI-ADI,Impossible! The Sith have been extinct for a millenium.
+4,1,YODA,"The very Republic is threatened, if involved the Sith are."
+5,1,MACE WINDU,I do not believe they could have returned without us knowing.
+6,1,YODA,"Hard to see, the dark side is. Discover who this assassin is, we must."
+7,1,KI-ADI,I sense he will reveal himself again.
+8,1,MACE WINDU,"This attack was with purpose, that is clear, and I agree the Queen is the target."
+9,1,YODA,"With this Naboo queen you must stay, Qui-Gon. Protect her."
+10,1,MACE WINDU,We will use all our resources here to unravel this mystery and discover the identity of your attacker... May the Force be with you.
+11,1,YODA,May the Force be with you.
+12,1,narrator,"OBI-WAN turns to leave, but QUI-GON continues to face the Council."
+13,1,YODA,(Cont'd) Master Qui-Gon more to say have you?
+14,1,QUI-GON,"With your permission, my Master. I have encountered a vergence in the Force."
+15,1,YODA,"A vergence, you say?"
+16,1,MACE WINDU,Located around a person?
+17,1,QUI-GON,A boy... his cells have the highest concentration of midi-chlorians I have seen in a life form. It is possible he was conceived by the midi-chlorians.
+18,1,MACE WINDU,You're referring to the prophesy of the one who will bring balance to the Force...you believe it's this boy??
+19,1,QUI-GON,I don't pressume...
+20,1,YODA,But you do! Rrevealed your opinion is.
+21,1,QUI-GON,I request the boy be tested.
+22,1,narrator,The JEDI all look to one another. They nod and turn back to OBI-WAN and QUI-GON.
+23,1,YODA,"Trained as a Jedi, you request for him?"
+24,1,QUI-GON,Finding him was the will of the Force...I have no doubt of that. There is too much happening here...
+25,1,MACE WINDU,"Bring him before us, then."
+26,1,YODA,Tested he will be.
+27,1,narrator,"ANAKIN stands before the TWELVE JEDI. MACE WINDU holds a small hand-held viewing screen. In rapid succession, images flash across the screen."
+28,1,ANAKIN,A ship...a cup...a speeder.
+29,1,narrator,MACE WINDU turns the viewing screen off and nods toward YODA.
+30,1,YODA,"Good, good, young one. How feel you?"
+31,1,ANAKIN,"Cold, sir."
+32,1,YODA,Afraid are you?
+33,1,ANAKIN,"No, sir."
+34,1,MACE WINDU,Afraid to give up your life?
+35,1,ANAKIN,I don't think so.
+36,1,narrator,ANAKIN hesitates for a moment.
+37,1,YODA,"See through you, we can."
+38,1,MACE WINDU,Be mindful of your feelings...
+39,1,KI-ADI,YOur thoughts dwell on your mother.
+40,1,ANAKIN,I miss her.
+41,1,YODA,Afraid to lose her..I think.
+42,1,ANAKIN,(a little angry) What's that got to do with anything?
+43,1,YODA,Eveything. Fear is the path to the dark side... fear leads to anger... anger leads to hate.. hate leads to suffering.
+44,1,ANAKIN,(angrily) I am not afraid!
+45,1,YODA,"A Jedi must have the deepest commitment, the most serious mind. I sense much fear in you."
+46,1,ANAKIN,(quietly) I am not afraid.
+47,1,YODA,"Then continue, we will."
+48,1,narrator,"ANAKIN, OBI-WAN, and QUI-GON stand before the TWELVE MEMBERS OF THE JEDI COUNCIL."
+49,1,YODA,"...Correct you were, Qui-Gon."
+50,1,MACE WINDU,His cells contain a high concentration of midi-chlorians.
+51,1,KI-ADI,The Force is strong with him.
+52,1,QUI-GON,"He's to be trained, then."
+53,1,narrator,The COUNCIL MEMBERS look to one another.
+54,1,MACE WINDU,No. He will not be trained.
+55,1,narrator,ANAKIN is crestfallen; tears begin to form in his eyes.
+56,1,QUI-GON,No??!!
+57,1,narrator,OBI-WAN smiles.
+58,1,MACE WINDU,He is too old. There is already too much anger in him.
+59,1,QUI-GON,He is the chosen one...you must see it.
+60,1,YODA,"Clouded, this boy's future is. Masked by his youth."
+61,1,QUI-GON,"I will trin him, then. I take Anakin as my Padawan learner."
+62,1,narrator,OBI-WAN reacts with surprise. ANAKIN watches with interest.
+63,1,YODA,"An apprentice, you have, Qui-Gon. Impossible, to take on a second."
+64,1,MACE WINDU,We forbid it.
+65,1,QUI-GON,Obi-Wan is ready...
+66,1,OBI-WAN,Iam ready to face the trials.
+67,1,YODA,"Ready so early, are you? What know you of ready?"
+68,1,narrator,ANAKIN watches as QUI-GON and OBI-WAN exchange angry looks.
+69,1,QUI-GON,"Headstrong....and he has much to learn about the living Force, but he is capabe. There is little more he will learn from me."
+70,1,YODA,"Our own council we will keep on who is ready. More to learn, he has..."
+71,1,MACE WINDU,"Now is not the time for this...the Senate is voting for a new Spreme Chancellor. Queen Amidala is returning home, which will put pressure on the Federation, and could widen the confrontation."
+72,1,YODA,And draw out the Queen's attacker.
+73,1,KI-ADI,Events are moving fast...too fast.
+74,1,MACE WINDU,Go with the Queen to Naboo and discover the identity of the dark warrior. That is the clue we need to unravel this mystery of the Sith.
+75,1,YODA,Young Skywalker's fate will be decided later.
+76,1,QUI-GON,I brought Anakin here; he must stay in my charge. He has nowhere else to go.
+77,1,MACE WINDU,"He is your ward, Qui-Gon...we will not dispute that."
+78,1,YODA,"Train him not. Take him with you, but train him not!"
+79,1,MACE WINDU,"Protect the Queen, but do not intercede if it comes to war until we have the Senate's approval."
+80,1,YODA,May the Force be with you.
+81,1,narrator,"OBI-WAN, QUI-GON, and ANAKIN leave."
+82,1,narrator,"The sun streams into the multi-windowed room at a low angle. It is not quite sunset. YODA paces before OBI-WAN, who is kneeling in the center of the room."
+83,1,YODA,"Confer on you, the level of Jedi Knight the Coucil does. But agree on you taking this boy as your Padawan learner, I do not."
+84,1,OBI-WAN,Qui-Gon believed in him. I believe in Qui-Gon.
+85,1,YODA,"The Chosen One the boy may be; nevertheless, grave danger I fear in his training."
+86,1,OBI-WAN,"Master Yoda, Igave Qui-Gon my word. I will train Anakin. Without the approval of the Council if I must."
+87,1,YODA,"Qui-Gon's defiance I sense in you. Need that, you do not. Agree, the council does. Your apprentice, young Skywalker will be."
+88,1,narrator,"QUI-GON's body goes up in flames as the JEDI COUNCIL, the QUEEN, SIO BIBBLE, CAPTAIN PANAKA, the HANDMAIDENS, and ABOUT ONE HUNDRED NABOO TROOPES, TWENTY OTHER JEDI, PALPATINE, OBI-WAN (standing with ANAKIN), JAR JAR, BOSS NASS, and TWENTY OTHER GUNGAN WARRIORS watch. There is a drum roll that stops. Doves are released, and the body is gone. ANAKIN looks to OBI-WAN."
+89,1,OBI-WAN,"He is one with the Force, Anakin...You must let go."
+90,1,ANAKIN,What will happen to me now?
+91,1,OBI-WAN,"I am your Master now. You will become a Jedi, I promise."
+92,1,narrator,"To one side, MACE WINDU turns to YODA."
+93,1,MACE WINDU,There is no doubt. The mysterious warrior was a Sith.
+94,1,YODA,Always two there are....no more...no less. A master and an apprentice.
+95,1,MACE WINDU,"But which one was destroyed, the master or the apprentice?"
+96,1,narrator,They give each other a concerned look.
+97,3,narrator,"YODA and ANAKIN sit in Yoda 's room, deep in thought."
+98,3,YODA, Premonitions . . . premonitions . . . Hmmmm . . . these visions you have . . .
+99,3,ANAKIN," They are of pain, suffering, death . . ."
+100,3,YODA," Yourself you speak of, or someone you know?"
+101,3,ANAKIN, Someone . . .
+102,3,YODA, . . . close to you?
+103,3,ANAKIN, Yes.
+104,3,YODA," Careful you must be when sensing the future, Anakin. The fear of loss is a path to the dark side."
+105,3,ANAKIN," I won't let these visions come true, Master Yoda."
+106,3,YODA," Death is a natural part of life. Rejoice for those around you who transform into the Force. Mourn them, do not. Miss them, do not. Attachment leads to jealousy. The shadow of greed, that is."
+107,3,ANAKIN," What must I do, Master Yoda?"
+108,3,YODA, Train yourself to let go of everything you fear to lose.
+109,3,narrator,"ANAKIN enters and stands in the middle of the room. He is surrounded by the Jedi Council MACE WINDU, EETH KOTH OBI-WAN, YODA, the HOLOGRAMS of PLO KOON and KI-ADI-MUNDI."
+110,3,MACE," Anakin Skywalker, we have approved your appointment to the Council as the Chancellor's personal representative."
+111,3,ANAKIN, I will do my best to uphold the principles of the Jedi Order.
+112,3,YODA," Allow this appointment lightly, the Council does not. Disturbing is this move by Chancellor Palpatine."
+113,3,ANAKIN, I understand.
+114,3,MACE," You are on this Council, but we do not grant you the rank of Master."
+115,3,narrator,Anakin reacts with anger.
+116,3,ANAKIN," What? ! How can you do this?? This is outrageous, it's unfair . . . I'm more powerful than any of you. How can you be on the Council and not be a Master?"
+117,3,MACE," Take a seat, young Skywalker."
+118,3,ANAKIN," Forgive me, Master."
+119,3,narrator,"ANAKIN goes and sits in one of the empty chairs. Everyone is embarrassed. KI-ADI-MUNDI WHO APPEARS AS A HOLOGRAM, speaks."
+120,3,Kl-ADI-MUNDI," We have surveyed all systems in the Republic, and have found no sign of General Grievous."
+121,3,YODA," Hiding in the Outer Rim, Grievous is. The outlying systems, you must sweep."
+122,3,OBI-WAN, It may take some time . . . we do not have many ships to spare.
+123,3,MACE, We cannot take ships from the front line.
+124,3,OBI-WAN," And yet, it would be fatal for us to allow the droid armies to regroup."
+125,3,YODA," Master Kenobi, our spies contact, you must, and then wait."
+126,3,Kl-ADI-MUNDI, What about the droid attack on the Wookiees?
+127,3,MACE," It is critical we send an attack group there, immediately!"
+128,3,OBI-WAN," He's right, that is a system we cannot afford to lose. It's the main navigation route for the southwestern quadrant."
+129,3,ANAKIN, I know that system well. It would take us little time to drive the droids off that planet.
+130,3,MACE," Skywalker, your assignment is here with the Chancellor, and Kenobi must find General Grievous."
+131,3,YODA," Go, I will. Good relations with the Wookiees, I have."
+132,3,MACE, It is settled then. Yoda will take a battalion of clones to reinforce the Wookiees on Kashyyyk. May the Force be with us all.
+133,3,narrator,ANAKIN is disappointed.
+134,3,narrator,"YODA, MACE, and OBI-WAN ride in the GUNSHIP as it heads for the Clone landing platform. Mace and Obi-Wan are sitting."
+135,3,OBI-WAN , Anakin did not take to his assignment with much enthusiasm.
+136,3,YODA," Too much under the sway of the Chancellor, he is. Much anger there is in him. Too much pride in his powers."
+137,3,MACE," It's very dangerous, putting them together. I don't think the boy can handle it. I don't trust him."
+138,3,OBI-WAN, He'll be all right. I trust him with my life.
+139,3,MACE,I wish I did.
+140,3,OBI-WAN," With all due respect, Master, is he not the Chosen One? Is he not to destroy the Sith and bring balance to the Force?"
+141,3,MACE, So the prophecy says.
+142,3,YODA, A prophecy . . . that misread could have been.
+143,3,OBI-WAN, He will not let me down. He never has.
+144,3,YODA," I hope right you are. And now destroy the Droid armies on Kashyyyk, I will. May the Force be with you."
+145,3,narrator,The GUNSHIP lands and the ramp lowers. YODA exits the GUNSHIP. MACE and OBI-WAN stand and give him a brief bow then take off in the GUNSHIP.
+146,3,narrator,"YODA and various JEDI speak via hologram. The discussion includes OBI-WAN, MACE, AGEN KOLAR, YODA- KI-ADI-MUNDI and PLO KOON."
+147,3,Kl-ADI-MUNDI, (holo) Palpatine thinks General Grievous is on Utapau. We have had no reports of this from our agents.
+148,3,MACE, (holo) How could the Chancellor have come by this information and we know nothing about it? We have had contact with Baron Papanoida and he said no one was there.
+149,3,ANAKIN, A partial message was intercepted in a diplomatic packet from the Chairman of Utapau.
+150,3,YODA," Act on this, we must. The capture of General Grievous will end this war. Quickly and decisively we should proceed."
+151,3,OBI-WAN, Does everyone agree?
+152,3,narrator,All the JEDI concur.
+153,3,ANAKIN, The Chancellor has requested that I lead the campaign.
+154,3,narrator,They all look at ANAKIN a bit disturbed.
+155,3,MACE," (a little peeved) The Council will make up its own mind who is to go, not the Chancellor."
+156,3,Kl-ADI-MUNDI," Yes, this decision is ours to make."
+157,3,narrator,ANAKIN is embarrassed and becomes sullen.
+158,3,YODA," A Master is needed, with more experience."
+159,3,MACE," Given our resources, I recommend we send only one Jedi . . . Master Kenobi."
+160,3,ANAKIN, He was not so successful the last time he met Grievous.
+161,3,narrator,OBI-WAN throws ANAKIN a dirty look.
+162,3,ANAKIN," (continuing) No offense, my Master, but I'm only stating a fact."
+163,3,OBI-WAN," Oh no, you're quite right, but I do have the most experience with his ways of combat."
+164,3,YODA," Obi-Wan, my choice is."
+165,3,Kl-ADI-MUNDI, I concur. Master Kenobi should go.
+166,3,YODA, I agree.
+167,3,narrator,All the JEDI concur.
+168,3,MACE, Very well. Council is adjourned.
+169,3,narrator,ANAKIN is angry.
+170,3,MACE," (continuing) Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle droids he may have with him."
+171,3,narrator,YODA gets out of his chair and walks to the edge of the platform.
+172,3,CLONE COMMANDER GREE, The droids have started up their main power generators.
+173,3,YODA," Then now the time is, Commander."
+174,3,CLONE COMMANDER GREE," Yes, sir."
+175,3,narrator,The battle begins.
+176,3,narrator,"KI-ADI-MUNDI, ANAKIN, YODA, MACE, CLONE COMMANDER CODY, and AAYLA SECURA talk via holograms."
+177,3,CLONE COMMANDER CODY," Master Windu, may I interrupt? General Kenobi has made contact with General Grievous, and we"
+178,3,narrator,have begun our attack.
+179,3,MACE WlNDU," Thank you, Commander. Anakin, deliver this report to the Chancellor. His reaction will give us a clue to his"
+180,3,narrator,intentions.
+181,3,ANAKIN," Yes, Master."
+182,3,narrator,ANAKIN leaves the room. COMMANDER CODY's hologram disappears.
+183,3,MACE WINDU, I sense a plot to destroy the Jedi. The dark side of the Force surrounds the Chancellor.
+184,3,Kl-ADI-MUNDI," If he does not give up his emergency powers after the destruction of Grievous, then he should be removed from"
+185,3,narrator,office.
+186,3,MACE WiNDU, That could be a dangerous move ... the Jedi Council would have to take control of the Senate in order to secure a peaceful transition . . .
+187,3,Kl-ADI-MUNDI, . . . and replace the Congress with Senators who are not filled with greed and corruption.
+188,3,YODA, To a dark place this line of thought will carry us. Hmmmmm. . . . great care we must take.
+189,3,narrator,CLONES in modified one-man AT-ST's and Swamp Speeders flash their searchlights across the gloomy lake. The light of one of the AT-ST's spots something floating in the water. It is what's left of a Wookiee catamaran. The body of a dead Wookiee (TARFFUL) is lying across the stern of the wreckage of the flying boat. There is some movement on the boat. The CLONE SERGEANT on the AT-ST fires a warning shot past the boat.
+190,3,AT-ST CLONE SERGEANT, Everyone out of there!
+191,3,narrator,A CRAZY LITTLE CREATURE about two feet high pops its head over the rail. The creature is covered with mud. His long hair is frizzed out in all directions.
+192,3,CREATURE, Wookiee good . . . eat Wookiee. (crazy little laugh)
+193,3,CLONE SERGEANT, Did you find something?
+194,3,CREATURE," It's nothing, nothing. (laughs)"
+195,3,CLONE SERGEANT," It's nothing, nothing. All these Wookiees are dead. Move to the east."
+196,3,CLONE TROOPER," Yes, sir."
+197,3,narrator,"Suddenly, CHEWBACCA climbs up behind the AT-ST CLONE, dripping wet, and throws the CLONE SERGEANT into the water. CHEWIE BARKS."
+198,3,CREATURE," Right you are, Chewbacca. Faster that will be."
+199,3,narrator,"TARFFUL jumps up in the boat, and the CREATURE takes off his hair. It is Yoda."
+200,3,YODA," Stink, this mud does. A moment to bathe, give me."
+201,3,narrator,"YODA, covered with mud, jumps into the water. TARFFUL climbs onto the AT-ST with CHEWBACCA. YODA is out of the water and putting his robes back on."
+202,3,YODA," (continuing) Not far, are we, from the emergency ship. Quickly . . ."
+203,3,narrator,YODA whistles and a large ALIEN FLYING INSECT called CAN-CELL appears. YODA jumps on the insect's back and they take off. The WOOKIEES follow on the AT-ST. The CLONES continue to search the swamp.
+204,3,narrator,"The AT-ST marches up the hill and stops. The WOOKIEES jump down. YODA lands on CAN-CELL nearby. CHEWBACCA goes to a tree and pulls down one of its branches. The ground opens up, and a small WOOKIEE ESCAPE POD rises into the field. YODA opens the door of the pod."
+205,3,YODA," Good-bye. Chewbacca and Tarfful, miss you I will. Good friends you are. For your help, much gratitude and respect, I have."
+206,3,narrator,The Wookiees BARK as the Jedi climbs into the WOOKIEE POD and takes off into the dusk sky.
+207,3,narrator,The door to the main hallway slides open. OBI-WAN enters and is greeted by YODA and BAIL ORGANA. The three walk down the hallway.
+208,3,BAIL ORGANA, You made it.
+209,3,YODA," Master Kenobi, dark times are these. Good to see you. it is."
+210,3,OBI-WAN," You were attacked by your Clones, also?"
+211,3,YODA," With the help of the Wookiees, barely escape, I did."
+212,3,OBI-WAN, How many other Jedi managed to survive?
+213,3,YODA," Heard from no one, have we."
+214,3,BAIL ORGANA, I saw thousands of troops attack the Jedi Temple. That's why I went looking for Yoda.
+215,3,OBI-WAN, Have we had any contact from the Temple?
+216,3,YODA," Received a coded retreat message, we have."
+217,3,BAIL ORGANA, It requests all Jedi to return to the Temple. It says that the war is over . . .
+218,3,OBI-WAN," Well, then we must go back! If there are other stragglers, they will fall into the trap and be killed."
+219,3,BAIL ORGANA, It's too dangerous to return.
+220,3,YODA," Suggest dismantling the coded signal, do you?"
+221,3,OBI-WAN," Yes, Master. There is too much at stake here, and we need a clearer picture of what has happened."
+222,3,YODA, I agree. In a dark place we find ourselves ... a little more knowledge might light our way.
+223,3,narrator,"The Republic Cruiser heads toward Coruscant. OBI-WAN, BAIL, YODA, and TWO PILOTS sit in the cockpit."
+224,3,PILOT," We are receiving a message from the Chancellor's office, sir."
+225,3,BAIL ORGANA, Send it through.
+226,3,PILOT," Yes, sir."
+227,3,narrator,The PILOT pushes some buttons. MAS AMEDDA appears on screen.
+228,3,MAS AMEDDA, Senator Organa . . . the Supreme Chancellor of the Republic requests your presence at a special session of Congress.
+229,3,BAIL ORGANA, Tell the Chancellor I will be there.
+230,3,MAS AMEDDA, Very well. He will be expecting you.
+231,3,narrator,MAS AMEDDA's image disappears from the screen.
+232,3,BAIL ORGANA, It could be a trap.
+233,3,OBI-WAN," No, I don't think so. The Chancellor will not be able to control the thousands of star systems without keeping the Senate intact."
+234,3,YODA," If a special session of Congress there is, easier for us to enter the Jedi Temple it will be."
+235,3,narrator,"A DOZEN CLONE TROOPERS stand guard at the entrance of the Jedi Temple. Suddenly there is a flash of a lightsaber, a flurry of confusion, and all of the Clone Troopers are dead on the floor. YODA and OBI-WAN stand in the middle of the carnage."
+236,3,OBI-WAN, There are several battalions of Clone Troopers on every level. Many are dressed as Jedi.
+237,3,YODA," Dismantle the coded signal quickly. That group back there, soon discovered will be."
+238,3,narrator,"YODA and OBI-WAN make their way through the Temple, avoiding the HUNDREDS OF CLONE TROOPERS. They use the Force to distract the CLONES when they can. YODA and OBI-WAN walk through the ruins of the Temple until they come across the bodies of some students."
+239,3,OBI-WAN, Not even the younglings survived.
+240,3,YODA," Killed not by clones, this Padawan. By a lightsaber, he was."
+241,3,OBI-WAN, . . .Who?? Who could have done this?
+242,3,narrator,"OBI-WAN stands in a large computer area as YODA looks on, in the hatchway to the Main Control Center."
+243,3,OBI-WAN, I've recalibrated the code warning all surviving Jedi to stay away.
+244,3,YODA," Good . . . For the Clones to discover the recalibration, a long time it will take. To change it back, longer still. Hurry."
+245,3,narrator,OBI-WAN enters the Main Control Center with YODA and heads for the hologram area.
+246,3,OBI-WAN," Wait, Master. There is something I must know . . ."
+247,3,YODA," If into the security recordings you go, only pain will you find."
+248,3,OBI-WAN," I must know the truth, Master."
+249,3,narrator,"OBI-WAN moves to a panel and flips some switches. He sees a HOLOGRAM of ANAKIN slaughtering JEDI, including the YOUNG ONES. OBI-WAN and YODA react."
+250,3,OBI-WAN, (continuing) It can't be . . . It can't be . . .
+251,3,narrator,"As ANAKIN surveys the carnage, a DARK-ROBED SITH LORD enters. ANAKIN turns to DARTH SIDIOUS and kneels before him."
+252,3,ANAKIN," The traitors have been taken care of, Lord Sidious."
+253,3,DARTH SlDIOUS," Good . . . good . . . You have done well, my new apprentice. Do you feel your power growing?"
+254,3,ANAKIN," Yes, My Master."
+255,3,DARTH SlDIOUS," Now, Lord Vader, now go and bring peace to the Empire."
+256,3,narrator,OBI-WAN watches in horror. Tears well up in his eyes.
+257,3,OBI-WAN, I can't watch any more.
+258,3,narrator,OBI-WAN switches off the hologram. The TWO JEDI stand in silence for a few moments.
+259,3,YODA," Destroy the Sith, we must."
+260,3,OBI-WAN, Send me to kill the Emperor. I will not kill Anakin.
+261,3,YODA," To fight this Lord Sidious, strong enough, you are not."
+262,3,OBI-WAN, He is like my brother ... I cannot do it.
+263,3,YODA," Twisted by the dark side, young Skywalker has become. The boy you trained, gone he is . . . Consumed by Darth Vader."
+264,3,OBI-WAN, How could it have come to this?
+265,3,YODA," To question, no time there is."
+266,3,OBI-WAN, I do not know where the Emperor has sent him. I don't know where to look.
+267,3,YODA," Use your feelings, Obi-Wan, and find him, you will. Visit the new Emperor, my task is. May the Force be with you."
+268,3,OBI-WAN," May the Force be with you, Master Yoda."
+269,3,narrator,"YODA enters, using the Force to throw two RED GUARDS against the wall, knocking them unconscious. DARTH SIDIOUS turns his chair toward YODA. MAS AMEDDA stands behind SIDIOUS's desk."
+270,3,YODA," I hear a new apprentice, you have. Emperor, or should I call you Darth Sidious."
+271,3,DARTH SlDIOUS," Master Yoda, you survived."
+272,3,YODA, Surprised?
+273,3,DARTH SlDIOUS," Your arrogance blinds you, Master Yoda. Now you will experience the full power of the dark side."
+274,3,narrator,"The Dark Lord raises his arms, and LIGHTNING BOLTS shoot out, surrounding YODA. YODA is picked up and thrown across the room, hitting the wall and sliding down in a crumpled heap. DARTH SIDIOUS chuckles."
+275,3,narrator,MAS AMEDDA leaves the room. PALPATINE approaches a stunned YODA.
+276,3,DARTH SlDIOUS," I have waited a long time for this moment, my little green friend. At last, the Jedi are no more."
+277,3,YODA," Not if anything I have to say about it, Lord Sidious."
+278,3,narrator,"YODA uses the Force to throw DARTH SIDIOUS back, knocking him clear over his desk and onto the floor in a heap."
+279,3,YODA," (continuing) At an end your rule is and not short enough it was, I must say."
+280,3,narrator,"DARTH SIDIOUS flies through the air, cape flapping, heading toward the exit. At the last second, YODA flies into the exit and stops the Dark Lord."
+281,3,YODA," (continuing) If so powerful you are, why leave??"
+282,3,narrator,YODA ignites his lightsaber.
+283,3,DARTH SlDIOUS, You will not stop me. Darth Vader will become more powerful than either of us.
+284,3,narrator,DARTH SIDIOUS ignites his lightsaber.
+285,3,YODA," Faith in your new apprentice, misplaced may be, as is your faith in the dark side of the Force."
+286,3,narrator,Their swords CLASH. The battle is extremely fast and furious.
+287,3,narrator,"YODA unleashes a ferocious assault on PALPATINE, causing him to almost go over the edge. The Dark Lord drops his lightsaber but recovers with a BLAST OF ENERGY from his hands that surrounds YODA. YODA is deflecting the Sith Lord's lightning bolts. The energy bolts begin to arc back on the Emperor. It looks as if the Dark Lord is doomed."
+288,3,YODA," Destroy you I will, just as Master Kenobi, your apprentice will destroy."
+289,3,narrator,"YODA jumps to a lower Senate Pod. PALPATINE reaches out with one hand, and a Senate pod is released from its mooring and heads toward the Podium. PALPATINE uses the Force to hurl pod after pod at YODA, who ducks and jumps from one flying pod to another. YODA leaps away from the pods. He uses the Force to hold one pod suspended in the air. The pod spins and YODA throws it back at PALPATINE, who leaps away at the last moment. YODA leaps after him, but PALPATINE quickly turns and aims the full force of his energy bolts at the tiny green Jedi, catching him in mid-air and throwing him back hard against the Podium. The force causes YODA to drop his lightsaber. YODA blocks the lightning and throws PALPATINE backwards off the podium. YODA is knocked off the Podium and falls several hundred feet to the base of the Podium. PALPATINE follows in his pod, searching for YODA."
+290,3,narrator,YODA squishes his way through a mass of wires in a small chute. He talks on his comlink.
+291,3,YODA, Hurry. Careful timing we will need.
+292,3,BAIL ORGANA, (in speeder) There aren't many troops on this side. Activate your homing beacon when you're ready.
+293,3,narrator,YODA straightens himself out.
+294,3,YODA," Into exile I must go. Failed, I have."
+295,3,narrator,YODA and BAIL fly into the traffic of the city.
+296,3,narrator,"On the isolated asteroid of Polis Massa, YODA meditates."
+297,3,YODA," Failed to stop the Sith Lord, I have. Still much to learn, there is ..."
+298,3,QUI -GON," (V.O.) Patience. You will have time. I did not. When I became one with the Force I made a great discovery. With my training, you will be able to merge with the Force at will. Your physical self will fade away, but you will still retain your consciousness. You will become more powerful than any Sith."
+299,3,YODA, Eternal consciousness.
+300,3,QUI-GON," (V.O.) The ability to defy oblivion can be achieved, but only for oneself. It was accomplished by a Shaman of the Whills. It is a state acquired through compassion, not greed."
+301,3,YODA," . . . to become one with the Force, and influence still have . . . A power greater than all, it is."
+302,3,QUI-GON," (V.O.) You will learn to let go of everything. No attachment, no thought of self. No physical self."
+303,3,YODA," A great Jedi Master, you have become, Qui-Gon Jinn. Your apprentice I gratefully become."
+304,3,narrator,"YODA thinks about this for a minute, then BAIL ORGANA enters the room and breaks his meditation."
+305,3,BAIL ORGANA," Excuse me, Master Yoda. Obi-Wan Kenobi has made contact."
+306,3,narrator,"POLIS MEDICS work, on PADME in an operating theater. OBI-WAN and one of the MEDICAL DROIDS enter an observation room where BAIL and YODA are waiting."
+307,3,MEDICAL DROID," Medically, she is completely healthy. For reasons we can't explain, we are losing her."
+308,3,OBI-WAN, She's dying?
+309,3,MEDICAL DROID, We don't know why. She has lost the will to live. We need to operate quickly if we are to save the babies.
+310,3,BAIL ORGANA, Babies??!!
+311,3,MEDICAL DROID, She's carrying twins.
+312,3,YODA," Save them, we must. They are our last hope."
+313,3,narrator,"The MEDICAL DROID rushes back to the operating room. ARTOO and THREEPIO watch, greatly puzzled. ARTOO BEEPS."
+314,3,C-3PO," It s some kind of reproductive process, I think."
+315,3,narrator,"BAIL ORGANA, YODA, and OBI-WAN sit around a conference table."
+316,3,YODA," Pregnant, she must still appear. Hidden, safe, the children must be kept."
+317,3,OBI-WAN, We must take them somewhere the Sith will not sense their presence.
+318,3,YODA," Split up, they should be."
+319,3,BAIL ORGANA, My wife and I will take the girl. We've always talked of adopting a baby girl. She will be loved with us.
+320,3,OBI-WAN, And what of the boy?
+321,3,YODA," To Tatooine. To his family, send him."
+322,3,OBI-WAN," I will take the child and watch over him. Master Yoda, do you think Anakin's twins will be able to defeat Darth Sidious?"
+323,3,YODA," Strong the Force runs, in the Skywalker line. Hope, we can . . . Done, it is. Until the time is right, disappear we will."
+324,3,narrator,BAIL leaves the conference room. YODA stops OBI-WAN.
+325,3,YODA," (continuing) Master Kenobi, wait a moment. In your solitude on Tatooine, training I have for you."
+326,3,OBI-WAN, Training??
+327,3,YODA, An old friend has learned the path to immortality.
+328,3,OBI-WAN, Who?
+329,3,YODA," One who has returned from the netherworld of the Force to train me . . . your old Master, Qui-Gon Jinn."
+330,3,OBI-WAN," Qui-Gon? But, how could he accomplish this?"
+331,3,YODA," The secret of the Ancient Order of the Whills, he studied. How to commune with him. I will teach you."
+332,3,OBI-WAN, I will be able to talk with him?
+333,3,YODA," How to join the Force, he will train you. Your consciousness you will retain, when one with the Force. Even your physical self, perhaps."
+334,6,,"The tip of a walking stick taps hesitantly across the earthen floor of  the cottage. Our view travels up the stick to the small green hand that  clutches it, and then to the familiar face of YODA, THE JEDI MASTER.  His manner is frail, and his voice, though cheerful, seems weaker."
+335,6,YODA,Hmm. That face you make. Look I so old to young eyes?
+336,6,narrator,"Luke is sitting in a corner of the cramped space and, indeed, his look  has been woeful. Caught, he tries to hide it."
+337,6,LUKE,No... of course not.
+338,6,"YODA	 (tickled, chuckles)","I do, yes, I do!  Sick have I become. Old and weak. "
+339,6,narrator,"(Points a crooked finger) When nine hundred years old you reach, look as good you will not. Hmm? Yoda chuckles at this, coughs, and hobbles over toward his bed."
+340,6,YODA,"Soon will I rest. Yes, forever sleep. Earned it, I have."
+341,6,narrator,"Yoda sits himself on his bed, with great effort."
+342,6,LUKE,"Master Yoda, you can't die."
+343,6,YODA,Strong am I with the Force... but not that strong! Twilight is upon me 
+344,6,narrator,and soon night must fall. That is the way of things... the way of the  Force.
+345,6,LUKE,But I need your help. I've come back to complete the training.
+346,6,YODA,No more training do you require. Already know you that which you need.
+347,6,narrator,"Yoda sighs, and lies back on his bed."
+348,6,LUKE,Then I am a Jedi?
+349,6,YODA	 (shakes his head),"Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, "
+350,6,narrator,"only then, a Jedi will you be. And confront him you will. Luke is in agony. He is silent for a long moment, screwing up his  courage. Finally he is able to ask."
+351,6,LUKE,Master Yoda... is Darth Vader my father?
+352,6,narrator,"Yoda's eyes are full of weariness and compassion. An odd, sad smile  creases his face. He turns painfully on his side, away from Luke."
+353,6,YODA,Mmm... rest I need. Yes... rest.
+354,6,narrator,"Luke watches him, each moment an eternity."
+355,6,LUKE,"Yoda, I must know."
+356,6,YODA,Your father he is.
+357,6,narrator,Luke reacts as if cut.
+358,6,YODA,"Told you, did he?"
+359,6,LUKE,Yes.
+360,6,narrator,A new look of concern crosses Yoda's face.  He closes his eyes.
+361,6,YODA,"Unexpected this is, and unfortunate..."
+362,6,LUKE,Unfortunate that I know the truth?
+363,6,narrator,Yoda opens his eyes again and studies the youth.
+364,6,YODA		 (gathering all his strength),No. Unfortunate that you rushed to face him... that incomplete was your 
+365,6,narrator,training. Not ready for the burden were you.
+366,6,LUKE,"Well, I'm sorry."
+367,6,YODA,"Remember, a Jedi's strength flows from the Force.  But beware.  Anger, "
+368,6,narrator,"fear, aggression. The dark side are they.  Once you start down the dark path, forever  will it dominate your destiny. He beckons the young Jedi closer to him."
+369,6,YODA,"Luke...Luke...Do not...Do not underestimate the powers of the Emperor, "
+370,6,narrator,"or suffer your father's fate, you will. Luke, when gone am I (cough), the last of the Jedi will you be. Luke, the Force runs strong in your  family. Pass on what you have learned, Luke...  (with great effort) There is...another...Sky...Sky...walker. He catches his breath. A shiver runs through the ancient green  creature, and he dies. Luke stares at his dead master as he disappears  in front of his eyes."
