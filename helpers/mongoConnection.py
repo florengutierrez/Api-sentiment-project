@@ -4,7 +4,7 @@ client = MongoClient()
 
 db = client.yoda.dialogue
 
-character = db.characters
+characters = client.yoda.characters
 dialogue = db.text
 movie = db.movie
 
@@ -23,9 +23,9 @@ def delete(coll, obj):
     removes = coll.remove(obj)
     return remove
 
-def new_character(character,text):
-    dic =  {
-    "characther":f"{character}",
-    "text":f"{text}"
-    }
-    movie.insert_one(dic)
+#creo una nueva colección en MongoDB de character para facilitar el proceso.
+def get_personages():
+    query = {}
+    project = {"character":1, "_id":0}
+    char = (list(characters.find(query, project)))
+    return char

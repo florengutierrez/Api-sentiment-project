@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, Response, jsonify
 from flask_pymongo import PyMongo
 from bson import json_util
 from helpers.mongoConnection import *
@@ -26,14 +26,10 @@ def phrases():
     query = read({"character":"YODA"}, project={"character":1, "text":1, "_id":0})
     return json_util.dumps(query)
 
-
-@app.route("/text_movies/<movie>")
-def check_text_movies():
-    query = {"movie":movie}
-    if not check_params(query,"movie",["1", "3", "6"]):
-        return {"Please, select 1, 3 or 6 movie."}
-    query2 = read(q, project={"movie":1, "character":1, "text":1, "_id":0})
-    return json_util.dumps(query2)
+@app.route("/characters")
+def list_characters():
+    chars = get_personages()
+    return jsonify(chars)
 
 
 

@@ -19,7 +19,9 @@ Please, push de url to look the results.
 
 - "http://127.0.0.1:5000/salute"
 
-- "http://127.0.0.1:5000/yoda"
+- "http://127.0.0.1:5000/yoda" (Frases dichas por Yoda en las películas de nuestro data.)
+
+- "http://127.0.0.1:5000/characters" (Listado de las intervenciones de los personajes en las películas.)
 
 
 
