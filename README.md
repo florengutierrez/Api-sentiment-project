@@ -13,17 +13,13 @@ Recibe datos de sus clientes (a través de sus solicitudes POST) y los guarda en
 
 #### ENDPOINTS:
 
+Please, push de url to look the results.
+
 - "http://127.0.0.1:5000"
 
-- "/" : 'Welcome to Yodapi'
+- "http://127.0.0.1:5000/salute"
 
-- "/salute" 'Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.'
-
--"/yoda" 'character': 'YODA',
-         'text': 'The very Republic is threatened, if involved the Sith are.'
-
-(TE DEVUELVE TODAS LAS FRASES DICHAS POR YODA EN LAS PELÍCULAS DE NUESTRO DATASET)
-
+- "http://127.0.0.1:5000/yoda"
 
 
 
