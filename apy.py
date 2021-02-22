@@ -4,7 +4,6 @@ from bson import json_util
 from helpers.mongoConnection import *
 from helpers.checking import check_params, check_exists
 from bson import ObjectId
-from add import *
 
 app = Flask(__name__)
 app.config["MONGO_URI"]="mongodb://localhost/yoda"
@@ -26,11 +25,19 @@ def phrases():
     query = read({"character":"YODA"}, project={"character":1, "text":1, "_id":0})
     return json_util.dumps(query)
 
-@app.route("/movie/new")
-def  movie_new():
+
+@app.route("/new_character", methods=["POST"])
+def insert_new_character():
+    character = request.form.get("character")
+    dialogue = request.form.get("text")
+    new_character(character, dialogue)
+    return "text added"
+
+"""
+@app.route("/text-delete")
+def text_delete():
     args = dict(request.args)
-    id = add_movie(args)
-    return json_util.dumps({"_id":id})
+    return json_util.dumps(delete("texts",args))"""
 
 
 if __name__ == "__main__":
