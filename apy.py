@@ -9,6 +9,7 @@ app = Flask(__name__)
 app.config["MONGO_URI"]="mongodb://localhost/yoda"
 mongo = PyMongo(app)
 
+
 ##ENDPOINTS
 
 @app.route('/')
@@ -26,12 +27,22 @@ def phrases():
     return json_util.dumps(query)
 
 
-@app.route("/new_character", methods=["POST"])
+@app.route("/text_movies/<movie>")
+def check_text_movies():
+    query = {"movie":movie}
+    if not check_params(query,"movie",["1", "3", "6"]):
+        return {"Please, select 1, 3 or 6 movie."}
+    query2 = read(q, project={"movie":1, "character":1, "text":1, "_id":0})
+    return json_util.dumps(query2)
+
+
+
+"""@app.route("/new_character", methods=["POST"])
 def insert_new_character():
     character = request.form.get("character")
     dialogue = request.form.get("text")
     new_character(character, dialogue)
-    return "text added"
+    return "text added" """
 
 """
 @app.route("/text-delete")
