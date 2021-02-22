@@ -4,10 +4,13 @@ from bson import json_util
 from helpers.mongoConnection import *
 from helpers.checking import check_params, check_exists
 from bson import ObjectId
+from add import *
 
 app = Flask(__name__)
 app.config["MONGO_URI"]="mongodb://localhost/yoda"
 mongo = PyMongo(app)
+
+##ENDPOINTS
 
 @app.route('/')
 def Yodapi():
@@ -23,14 +26,11 @@ def phrases():
     query = read({"character":"YODA"}, project={"character":1, "text":1, "_id":0})
     return json_util.dumps(query)
 
-"""@app.route("/movie/<movie>")
-def movie(movie):
-    query = {"movie":movie}
-    if not check_exists(query,"movie",["1", "3", "6"]):
-        return {"Please, select 1, 3 or 6."}
-    query2 = read(query = read({"character":"YODA"}, project={"character":1, "text":1, "_id":0})
-
-    return json_util.dumps(query2)"""
+@app.route("/movie/new")
+def  movie_new():
+    args = dict(request.args)
+    id = add_movie(args)
+    return json_util.dumps({"_id":id})
 
 
 if __name__ == "__main__":
