@@ -31,7 +31,7 @@ def list_characters():
     chars = get_personages()
     return jsonify(chars)
 
-
+# Estas dos me han dejado de tirar, buscando el arreglo.
 
 """@app.route("/new_character", methods=["POST"])
 def insert_new_character():
