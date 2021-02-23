@@ -13,7 +13,7 @@ Recibe datos de sus clientes (a través de sus solicitudes POST) y los guarda en
 
 #### ENDPOINTS:
 
-Please, push de url to look the results.
+Please, fork repository and push de url to look the results.
 
 - "http://127.0.0.1:5000"
 
